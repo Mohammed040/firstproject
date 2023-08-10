@@ -1,3 +1,8 @@
 hello buddy tommorow we have to play circket for our class.
 we must have to won the trophy.
+<<<<<<< HEAD
 Mohammed Azharuddin is a lskdjfj
+=======
+hello pasha bhai kaise ahi f lkslf.
+
+>>>>>>> azar
